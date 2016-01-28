@@ -1,7 +1,7 @@
 name: Shahzad Khaliq
 favicon: null
-layout_spectrum: 0.4966988214291632
-typography_spectrum: 0.09409223799593747
+layout_spectrum: 1
+typography_spectrum: 0.49156
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.3663744640070945
-  lightness: 0.5869342975784093
+  brandStrength: 0.5
+  lightness: 0.5
   saturation: 0.06164489942602813
-  rhythmicContrast: 0.333193740574643
+  rhythmicContrast: 0.5
 purpose: []
