@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Shahzad Khaliq]]></title>
+        <description><![CDATA[Shahzad Khaliq]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 28 Jan 2016 13:11:14 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Love mountains, lonely valleys, barren terrains, blue moods, memory flashbacks, uncertain futures, thrills of something new & lot more</p>]]></description>
+            <link>undefinedf2b470f3-99c1-470f-adab-0498d194b2c6/index.html</link>
+            <guid isPermaLink="false">f2b470f3-99c1-470f-adab-0498d194b2c6</guid>
+            <pubDate>Thu, 28 Jan 2016 13:11:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
