@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Shahzad Khaliq]]></title>
         <description><![CDATA[Shahzad Khaliq]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/shahzad-khaliq/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jan 2016 13:11:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Jan 2016 15:12:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/shahzad-khaliq/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Love mountains, lonely valleys, barren terrains, blue moods, memory flashbacks, uncertain futures, thrills of something new & lot more</p>]]></description>
-            <link>undefinedf2b470f3-99c1-470f-adab-0498d194b2c6/index.html</link>
+            <title><![CDATA[Shahzad Khaliq]]></title>
+            <description><![CDATA[<h1></h1>]]></description>
+            <link>https://thegrid.ai/shahzad-khaliq/f2b470f3-99c1-470f-adab-0498d194b2c6/index.html</link>
             <guid isPermaLink="false">f2b470f3-99c1-470f-adab-0498d194b2c6</guid>
-            <pubDate>Thu, 28 Jan 2016 13:11:13 GMT</pubDate>
+            <pubDate>Thu, 28 Jan 2016 15:11:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
