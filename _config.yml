@@ -6,13 +6,13 @@ color:
     - '#056b36'
     - '#05ad1e'
     - '#6e6023'
-  brandStrength: 0.5
-  lightness: 0.5
-  rhythmicContrast: 0.5
-  saturation: 0.5
+  brandStrength: 0.327703
+  lightness: 0.401182
+  rhythmicContrast: 0.511824
+  saturation: 0.279561
 cta: {}
-layout_spectrum: 0.771115
+layout_spectrum: 0.986486
 name: Shahzad Khaliq
 opengraph: {}
 purpose: []
-typography_spectrum: 0.7734
+typography_spectrum: 0.804899
